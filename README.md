@@ -1,5 +1,5 @@
 # Virtual-Warp
-The implement algorithm cc by two kind of virtual warp. (cc:connected component)
+The implement of algorithm cc by two kind of virtual warp. (cc:connected component)
 
 
 src: the preprocessing of graph ,eg.reading graph file and partitioning graph.
